@@ -1,7 +1,7 @@
 # 💻 Dhruv Kalra
 
 **Pre-Final Year Computer Science Engineering Student | JIIT Noida**  
-**Aspiring Software Engineer | AI/ML Enthusiast | Full-Stack Developer | Hackathon Builder**
+**Aspiring Software Engineer | AI/ML Enthusiast | Web Developer | Hackathon Builder**
 
 ---
 
