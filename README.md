@@ -26,14 +26,6 @@ Here are a few projects I’ve worked on:
 
 ---
 
-## 📌 Pinned Repositories
-
-[![FrauDfence](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=FrauDfence&theme=radical)](https://github.com/your-username/FrauDfence)  
-[![CashFlowMinimizer](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=CashFlowMinimizer&theme=radical)](https://github.com/your-username/CashFlowMinimizer)  
-[![Jarvis](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Jarvis&theme=radical)](https://github.com/your-username/Jarvis) 
-
----
-
 ## 🧠 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
