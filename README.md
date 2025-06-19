@@ -1,4 +1,4 @@
-# 💻 Dhruv Kalra
+# Dhruv Kalra
 
 **Pre-Final Year Computer Science Engineering Student | JIIT Noida**  
 **Aspiring Software Engineer | AI/ML Enthusiast | Web Developer | Hackathon Builder**
@@ -59,23 +59,12 @@ Here are a few projects I’ve worked on:
 ### 🌱 Learning
 - **Advanced DSA** for competitive coding  
 - **Node.js** and backend integration for full-stack development
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvkalra71&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvkalra71&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkalra71&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
+- 
 ---
 
 ## 📬 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/dhruvkalra)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
+- 🌐 [LinkedIn](https://linkedin.com/in/dhruv-kalra-dk71)  
 - 📫 Email: dhruvkalra2005@gmail.com
 
 ---
