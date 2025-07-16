@@ -1,13 +1,12 @@
 # Dhruv Kalra
 
-**Pre-Final Year Computer Science Engineering Student | JIIT Noida**  
 **Aspiring Software Engineer | AI/ML Enthusiast | Web Developer | Hackathon Builder**
 
 ---
 
 ## 👋 About Me
 
-I'm a passionate CSE student currently diving deep into **Data Structures & Algorithms (C++)**, **web development**, and **AI/ML**.  
+I'm a passionate CSE student currently diving deep into **Data Structures & Algorithms (C++)**, **Web Development**, and **AI/ML**.  
 I love transforming ideas into real-world applications and solving meaningful problems through code.
 
 I’ve built several innovative and utility-driven projects—some born out of personal curiosity, others as part of academic or hackathon experiences.
