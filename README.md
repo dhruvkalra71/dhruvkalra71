@@ -13,18 +13,6 @@ I’ve built several innovative and utility-driven projects—some born out of p
 
 ---
 
-## 🚀 Projects
-
-Here are a few projects I’ve worked on:
-
-- 🔹 **Practorview** – AI-powered interview simulator using Python, Gemini API, HTML, CSS, JS  
-- 🔹 **FraudFence** – Credit card fraud detection system focused on core DSA, built using C++  
-- 🔹 **Lean Ledger** – Cash flow minimizer with a "super participants" feature for optimized multi-user settlements (C++ + File handling)  
-- 🔹 **Jarvis** – Ongoing personal AI assistant using Python and Gemini API  
-- 🔹 **Campus Event Management Portal (Eventorium)** – Central platform for scheduling & managing college events with student-facing calendar integration
-
----
-
 ## 🧠 Tech Stack
 
 <p align="center">
@@ -48,18 +36,6 @@ Here are a few projects I’ve worked on:
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
-
----
-
-## 🛠️ Currently
-
-### 🔭 Working On
-- Expanding **Jarvis** with voice-based controls and scheduling
-- Participating in hackathons with real-world prototypes
-
-### 🌱 Learning
-- **Advanced DSA** for competitive coding  
-- **Node.js** and backend integration for full-stack development
 
 ---
 
